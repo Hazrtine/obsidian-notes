@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENG_1302/2025-09-30 ETHOS.md",
-                "mode": "preview",
+                "file": "COSC_2436/2025-10-02 BEGINNING.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-30 ETHOS"
+              "title": "2025-10-02 BEGINNING"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENG_1302/2025-09-30 ETHOS.md",
+                "file": "COSC_2436/2025-10-02 BEGINNING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-09-30 ETHOS"
+              "title": "Backlinks for 2025-10-02 BEGINNING"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENG_1302/2025-09-30 ETHOS.md",
+                "file": "COSC_2436/2025-10-02 BEGINNING.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-09-30 ETHOS"
+              "title": "Outgoing links from 2025-10-02 BEGINNING"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENG_1302/2025-09-30 ETHOS.md",
+                "file": "COSC_2436/2025-10-02 BEGINNING.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-30 ETHOS"
+              "title": "Outline of 2025-10-02 BEGINNING"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,8 +172,10 @@
   },
   "active": "76b461a687df8454",
   "lastOpenFiles": [
-    "Welcome.md",
+    "MATH_2317/2025-10-02 BEGINNING.md",
+    "COSC_2436/2025-10-02 BEGINNING.md",
     "ENG_1302/2025-09-30 ETHOS.md",
+    "Welcome.md",
     "MATH_2317",
     "COSC_2436",
     "ENG_1302"
