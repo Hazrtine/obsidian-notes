@@ -1,0 +1,66 @@
+.header {
+	font-size: 32px;
+	font-decoration: underline;
+	align-self: center;
+	text-decoration: underline;
+}
+
+.emphasis-title {
+	font-size: 48px;
+	text-decoration: underline;
+	align-self: center;
+	animation: wiggle 1s infinite;
+}
+
+.emphasis-title:hover {
+	animation: none;
+}
+
+
+.sub-header {
+	font-size: 24px;
+	text-decoration: underline;
+}
+
+.beginning-summary {
+	align-self: center;
+}
+
+.wrapper {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.separation-box {
+	border: 1px white solid;
+	margin: 15px;
+	padding: 15px;
+}
+
+.emphasis {
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+img {
+	width: 200px;
+	align-self: center;
+}
+
+img:hover {
+	  transform: scale(2);
+}
+
+p {
+	margin-bottom: 10px;
+}
+
+@keyframes wiggle {
+    0% { transform: rotate(0deg); }
+   25% { transform: rotate(5deg); }
+   50% { transform: rotate(0deg); }
+   75% { transform: rotate(-5deg); }
+  100% { transform: rotate(0deg); }
+}
