@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COSC_2436/2025-10-02 BEGINNING.md",
-                "mode": "source",
-                "source": false
+                "file": "ENG_1302/2025-10-07 CONSPIRACY THEORIES.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-10-02 BEGINNING"
+              "title": "2025-10-07 CONSPIRACY THEORIES"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1b274d29b00c76dd",
@@ -172,9 +172,10 @@
   },
   "active": "76b461a687df8454",
   "lastOpenFiles": [
-    "MATH_2317/2025-10-02 BEGINNING.md",
-    "COSC_2436/2025-10-02 BEGINNING.md",
     "ENG_1302/2025-09-30 ETHOS.md",
+    "ENG_1302/2025-10-07 CONSPIRACY THEORIES.md",
+    "COSC_2436/2025-10-02 BEGINNING.md",
+    "MATH_2317/2025-10-02 BEGINNING.md",
     "Welcome.md",
     "MATH_2317",
     "COSC_2436",
