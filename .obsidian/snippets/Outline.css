@@ -1,0 +1,82 @@
+.header {
+	align-self: center;
+	font-size: 32px;
+	text-decoration: underline;
+}
+
+.sub-sub-header {
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+.emphasis-title {
+	align-self: center;
+	animation: wiggle 1s infinite;
+	font-size: 48px;
+	text-decoration: underline;
+}
+
+.emphasis-title:hover {
+	animation: none;
+}
+
+.sub-header {
+	font-size: 24px;
+	text-decoration: underline;
+}
+
+.beginning-summary {
+	align-self: center;
+}
+
+.wrapper {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+
+.separation-box {
+	border: 1px white solid;
+	margin: 15px;
+	padding: 15px;
+}
+
+.emphasis {
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+img {
+	align-self: center;
+	width: 200px;
+}
+
+img:hover {
+	transform: scale(2.5);
+	transition: transform 0.3s ease;
+}
+
+p {
+	margin-bottom: 5px;
+}
+
+@keyframes wiggle {
+	0% { transform: rotate(0deg); }
+	25% { transform: rotate(5deg); }
+	50% { transform: rotate(0deg); }
+	75% { transform: rotate(-5deg); }
+	100% { transform: rotate(0deg); }
+}
+
+hr {
+	background-color: #333;
+	border: none;
+	height: 2px;
+	margin: 10px 0;
+}
+
+.itty-bitty {
+	margin: 0 0 0 0;
+	font-size: 10px;
+}
