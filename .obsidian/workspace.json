@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "184539340a35654b",
+    "id": "7ba83209f5b0be37",
     "type": "split",
     "children": [
       {
-        "id": "0a8f9a60c7c9c105",
+        "id": "336b1c5c424cf5c1",
         "type": "tabs",
         "children": [
           {
-            "id": "76b461a687df8454",
+            "id": "32a3f1d5bf19bcaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENG_1302/2025-11-4 ARGUMENTATIVE ESSAY PAPER.md",
+                "file": "COSC_2436/SpellChecker.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-4 ARGUMENTATIVE ESSAY PAPER"
+              "title": "SpellChecker"
             }
           }
         ]
@@ -27,28 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8c2d0704fa608e6d",
+    "id": "1ec4d451cbf3b38c",
     "type": "split",
     "children": [
       {
-        "id": "161927641317da4b",
+        "id": "398419cf2ad283d2",
         "type": "tabs",
         "children": [
           {
-            "id": "939e7d8b89863c53",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "f0efa5931407adc4",
+            "id": "0a4b67316b56cced",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +52,20 @@
             }
           },
           {
-            "id": "d12bcb4c87e280c5",
+            "id": "b8aac9628d60511d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "86a689ad9337fe9c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,28 +73,39 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "aea4f2aa41020f7b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "1b274d29b00c76dd",
+    "id": "2a518e88011c722e",
     "type": "split",
     "children": [
       {
-        "id": "bc4fb6ab3d74dc06",
+        "id": "568fe4114ef7fc7e",
         "type": "tabs",
         "children": [
           {
-            "id": "b10fe31e95df1433",
+            "id": "40be723284a4e1d6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COSC_2436/2025-10-02 BEGINNING.md",
+                "file": "COSC_2436/SpellChecker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,87 +115,127 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-10-02 BEGINNING"
+              "title": "Backlinks for SpellChecker"
             }
           },
           {
-            "id": "8ee3733e6ef40b94",
+            "id": "34fca20b73961577",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COSC_2436/2025-10-02 BEGINNING.md",
+                "file": "ObsidianTesting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-10-02 BEGINNING"
+              "title": "Outgoing links from ObsidianTesting"
             }
           },
           {
-            "id": "fd343a5dcdd61b0d",
+            "id": "40bee7f34ecae85d",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "e34a828c36f3040c",
+            "id": "286c2ba127020633",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "COSC_2436/2025-10-02 BEGINNING.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "ObsidianTesting.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-10-02 BEGINNING"
+              "title": "Outline of ObsidianTesting"
+            }
+          },
+          {
+            "id": "3dc7383f3e329a5d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "ea7cbe9ab5b985d5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76b461a687df8454",
+  "active": "ea7cbe9ab5b985d5",
   "lastOpenFiles": [
-    "ENG_1302/2025-10-21 ESSAY PEER-REVIEW.md",
+    "COSC_2436/ReverseRandomRotate.md",
+    "COSC_2436/SpellChecker.md",
+    "COSC_2436/QueueOperations.md",
+    "COSC_2436/NumberApp.md",
+    "COSC_2436/KnightsTour.md",
+    "COSC_2436/HashTableWorstPossibleExplanation.md",
+    "COSC_2436/BubbleSort.md",
+    "COSC_2436/BigONotationExplanation.md",
+    "COSC_2436/BinaryTreeTraversalExplanation.md",
+    "COSC_2436/2025-10-02 BEGINNING.md",
+    "COSC_2436/SpellChecker.java",
+    "COSC_2436/ReverseRandomRotate.java",
+    "COSC_2436/QueueOperations.java",
+    "COSC_2436/NumberApp.java",
+    "COSC_2436/KnightsTour.java",
+    "COSC_2436/HashTableWorstPossibleExplanation.java",
+    "COSC_2436/BubbleSort.java",
+    "COSC_2436/BinaryTreeTraversalExplanation.java",
+    "COSC_2436/BigONotationExplanation.java",
+    "MATH_2317/2025-10-02 BEGINNING.md",
+    "MATH_2317",
     "ENG_1302/2025-11-4 ARGUMENTATIVE ESSAY PAPER.md",
-    "Untitled.base",
-    "Untitled 1.base",
+    "ENG_1302/2025-10-21 ESSAY PEER-REVIEW.md",
+    "ENG_1302/2025-10-16 OUTLINES.md",
+    "ENG_1302/2025-10-14 Honestly Nothing.md",
     "ENG_1302/2025-10-07 CONSPIRACY THEORIES.md",
     "ENG_1302/2025-09-30 ETHOS.md",
-    "ENG_1302/2025-10-14 HONESTLY NOTHING.md",
-    "ENG_1302/2025-10-16 OUTLINES.md",
-    "COSC_2436/2025-10-02 BEGINNING.md",
-    "MATH_2317/2025-10-02 BEGINNING.md",
-    "Welcome.md",
-    "MATH_2317",
-    "COSC_2436",
-    "ENG_1302"
+    "ObsidianTesting.md",
+    "ObsidianTesting2.md",
+    "TestingNotesHub.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Thy Mama.md",
+    "yo mama.md"
   ]
 }
