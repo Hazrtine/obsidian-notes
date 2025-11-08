@@ -1,0 +1,7 @@
+{
+  "font_folder": ".obsidian/fonts/",
+  "font": "NeueHaasDisplay-Roman.woff",
+  "force_mode": true,
+  "custom_css_mode": false,
+  "custom_css": ":root * {\n    src: url('fonts/NeueHaasGroteskTextPro-Bold.woff2') format('woff2'),\n         url('fonts/NeueHaasGroteskTextPro-Bold.woff') format('woff');\n\t\t--font-default: \"Neue Haas Grotesk\";\n\t\t--default-font: none;\n\t\t--font-family-editor: none;\n\t\t--font-monospace-default: none,\n\t\t--font-interface-override: none,\n\t\t--font-text-override: none,\n\t\t--font-monospace-override: none,\t\n\t}\n"
+}

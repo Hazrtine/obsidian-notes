@@ -1,0 +1,63 @@
+body {
+} 
+
+
+.notebody {
+	
+}
+
+
+
+.title {
+	font-size: 30px;
+	font-weight: bold;
+	text-decoration: underline;
+
+}	
+
+.heading {
+	font-size: 24px;
+	background: rgb(250,0, 10, 0.5);
+}
+
+.subheading {
+	font-size: 20px;
+
+}
+
+.maintext {
+	
+}
+
+
+.highyellow{
+	background: #EE5510;
+}
+
+.notelink {
+	
+}
+
+.cm-content {
+  max-width: unset;
+  width: 100%;
+}
+
+/* Add padding if needed */
+.cm-content {
+  padding: 20px;
+}
+
+.intenselyimportant {
+		animation: vibrate 50ms linear infinite forwards;
+		font-size: 24px;
+}
+
+@keyframes vibrate {
+    0% {
+        transform: translateX(-1px) translateY(1px);
+    }
+    100% {
+        transform: translateX(1px) translateY(-2px);
+    }
+}
