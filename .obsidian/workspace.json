@@ -156,8 +156,19 @@
               "icon": "lucide-list",
               "title": "Outline of ObsidianTesting"
             }
+          },
+          {
+            "id": "3dc7383f3e329a5d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,10 +185,11 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32a3f1d5bf19bcaa",
+  "active": "b8aac9628d60511d",
   "lastOpenFiles": [
     "COSC_2436/ReverseRandomRotate.md",
     "COSC_2436/SpellChecker.md",
