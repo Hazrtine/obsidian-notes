@@ -166,6 +166,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ea7cbe9ab5b985d5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
@@ -189,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8aac9628d60511d",
+  "active": "ea7cbe9ab5b985d5",
   "lastOpenFiles": [
     "COSC_2436/ReverseRandomRotate.md",
     "COSC_2436/SpellChecker.md",
