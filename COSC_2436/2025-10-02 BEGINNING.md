@@ -1,1 +1,0 @@
-<span class="emphasis-title">There's nothing here yet.</span>
