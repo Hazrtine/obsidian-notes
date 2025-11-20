@@ -1,7 +1,7 @@
 <div class="wrapper">
 	<span class="header"> Today's Focus </span>
 	<span class="emphasis-title">Honestly Nothing</span> 
-	<br>
+	<hr>
 	<span class="sub-header"> Last Class Stuff </span>
 	<span class="itty-bitty">I wasn't here last class.</span>
 	<div class="separation-box">

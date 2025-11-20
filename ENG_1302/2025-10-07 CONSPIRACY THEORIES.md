@@ -1,8 +1,7 @@
 <div class="wrapper">
 <span class="header"> Today's Focus </span>
 <span class="emphasis-title">Conspiracy Theories</span> 
-<br>
-<br>
+<hr>
 <span class="sub-header">Conspiracy Theories:</span>
 <div class="separation-box">
 <span class="sub-sub-header" style="	font-size: 20px; text-decoration: underline;"> What is a Conspiracy Theory? </span>
